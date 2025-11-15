@@ -1,6 +1,8 @@
 <p align="center">
   <img src="image/ico.png" alt="App Icon" width="150">
 </p>
+
+
 # Shift Scheduler
 
 Shift Scheduler is an Android application designed for workers at a metal factory with a four-shift schedule.  
