@@ -1,16 +1,13 @@
 <p align="center">
   <img src="image/ico.png" alt="App Icon" width="150">
 </p>
-# Event Tracker
+# Shift Scheduler
 
-Event Tracker is a simple and modern Android application with a neon-style interface.  
-It allows users to create custom events and track exactly how much time has passed since each one started — down to milliseconds.
+Shift Scheduler is an Android application designed for workers at a metal factory with a four-shift schedule.  
 
-Perfect for habits and lifestyle tracking:  
-✓ Quit smoking  
-✓ Started going to the gym  
-✓ Began running in the mornings  
-✓ Any personal milestone you want to measure
+Users can select their brigade, and the calendar highlights each day in different colors to show day shift, night shift, rest day, or off day.  
+
+This app makes it easy to see your work schedule at a glance and plan your days efficiently.
 
 ---
 
