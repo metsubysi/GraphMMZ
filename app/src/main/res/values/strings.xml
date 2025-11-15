@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">График ММЗ</string>
+    <string name="_1">Бригада №1</string>
+    <string name="_2">Бригада №2</string>
+    <string name="_4">Бригада №4</string>
+    <string name="_3">Бригада №3</string>
+    <string name="todo">TODO</string>
+</resources>
