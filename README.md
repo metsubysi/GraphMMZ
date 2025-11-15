@@ -15,12 +15,15 @@ This app makes it easy to see your work schedule at a glance and plan your days 
 
 ## ✨ Features
 
-- Add unlimited custom events  
-- Track the exact time passed (in milliseconds)  
-- Neon-style animated interface  
-- Clean and minimalistic design  
-- Delete events anytime  
-- Built with Kotlin
+- Select your brigade/team  
+- Four-shift schedule tracking  
+- Color-coded calendar:  
+  - Day shift  
+  - Night shift  
+  - Rest day  
+  - Off day  
+- Quick overview of any date  
+- Simple and intuitive neon-style UI
 
 ---
 
