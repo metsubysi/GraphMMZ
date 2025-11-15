@@ -38,22 +38,27 @@ This app makes it easy to see your work schedule at a glance and plan your days 
 
 ## 🛠 Technologies Used
 
-- Kotlin
-- Android Studio
-- RecyclerView + Adapters
-- Custom Neon UI
-- System time (no Firebase required)
+- Java  
+- Android Studio  
+- CalendarView + RecyclerView  
+- Custom Adapter  
 - XML Layout
+- 
+---
+
+## 🚀 Installation
+
+1. Clone this repository:
+
+git clone https://github.com/metsubysi/GraphMMZ
+
+2. Open the project in Android Studio  
+3. Build and run on a device or emulator  
 
 ---
 
-## 🚀 How It Works
+## 🧑‍💻 Author
 
-1. Launch the app  
-2. Tap Add Event  
-3. Enter a name for your event  
-4. The timer starts immediately  
-5. Check how long it has been since your milestone  
-6. Manage and remove events whenever needed  
-
----
+Your Name / metsubysi  
+Android Developer (Java)  
+[Download on Play Market](https://play.google.com/store/apps/details?id=com.oplle.may)
