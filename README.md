@@ -59,6 +59,6 @@ git clone https://github.com/metsubysi/GraphMMZ
 
 ## 🧑‍💻 Author
 
-Your Name / metsubysi  
+Serhii Solodovnyk
 Android Developer (Java)  
 [Download on Play Market](https://play.google.com/store/apps/details?id=com.oplle.may)
