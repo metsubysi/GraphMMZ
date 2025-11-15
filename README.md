@@ -27,10 +27,10 @@ Perfect for habits and lifestyle tracking:
 
 ## 📷 Screenshots
 
-![screen1](image/Untitled-3.png)
-![screen2](image/Untitled-4.jpg)
-![screen3](image/oo4.jpg)
-![screen4](image/Untitleand-4.jpg)
+<p align="center">
+  <img src="image/photo1.jpg" alt="Screenshot 1" width="300" style="margin-right:10px;">
+  <img src="image/photo2.jpg" alt="Screenshot 2" width="300">
+</p>
 
 ---
 
